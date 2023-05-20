@@ -3,7 +3,7 @@
 
 ![TeemSucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeemSucks&theme=github_dark&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TeemSucks&rank=SECRET,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TeemSucks&rank=SECRET,S,AAA,AA,A,B,C&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Some random things:
