@@ -3,6 +3,9 @@
 
 ![TeemSucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeemSucks&theme=github_dark&show_icons=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TeemSucks)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 Some random things:
 - [Portfolio](https://teemsucks.github.io/portfolio)
 - [Checka Hub](https://teemsucks.github.io/Checka/test/test.html)
