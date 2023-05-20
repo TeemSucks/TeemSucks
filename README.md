@@ -1,6 +1,8 @@
 # TeemSucks
 ### Just a random guy who makes stuff.
 
+![TeemSucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeemSucks&theme=transparent&show_icons=true)
+
 Some random things:
 - [Portfolio](https://teemsucks.github.io/portfolio)
 - [Checka Hub](https://teemsucks.github.io/Checka/test/test.html)
