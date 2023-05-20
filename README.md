@@ -1,7 +1,7 @@
 # TeemSucks
 ### Just a random guy who makes stuff.
 
-Some random stuff:
+Some random things:
 - [Portfolio](https://teemsucks.github.io/portfolio)
 - [Checka Hub](https://teemsucks.github.io/Checka/test/test.html)
 
