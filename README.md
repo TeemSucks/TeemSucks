@@ -11,9 +11,3 @@ Some random things:
 - [Checka Hub](https://teemsucks.github.io/Checka/test/test.html)
 
 [![](https://visitcount.itsvg.in/api?id=TeemSucks&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
