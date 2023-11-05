@@ -8,7 +8,7 @@
 
 Some random things:
 - [Portfolio](https://teemsucks.github.io/portfolio)
-- [Website with accounts example]([https://teemsucks.github.io/Checka/test/test.html](https://github.com/TeemSucks/login-and-register-example)
+- [Website with accounts example](https://github.com/TeemSucks/login-and-register-example)
 
 ### Contact:
 - [Email](mailto:CatboyEXE@cock.li)
