@@ -7,11 +7,11 @@
 
 
 Some random things:
-- [Portfolio](https://teemsucks.github.io/portfolio)
 - [Website with accounts example](https://github.com/TeemSucks/login-and-register-example)
+- [Lil Icey Games](https://lilicey.games/)
 
 ### Contact:
 - [Email](mailto:CatboyEXE@cock.li)
-- [Discord](https://discord.com/users/675492571203764236)
+- [Discord](https://discord.com/users/1128777882144079973)
 
 [![](https://visitcount.itsvg.in/api?id=TeemSucks&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
