@@ -1,5 +1,5 @@
 # TeemSucks
-### Just a random idiot.
+### Just a random skid.
 
 ![TeemSucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeemSucks&theme=github_dark&show_icons=true)
 
