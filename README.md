@@ -8,5 +8,5 @@ Some random things:
 - [Lil Icey Games](https://lilicey.games/)
 
 ### Contact:
-- [Email](mailto:eveyln@guidedgames.org)
+- [Email](mailto:eve1yn@tuta.io)
 - [Discord](https://discord.com/users/1128777882144079973)
